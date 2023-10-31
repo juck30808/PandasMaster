@@ -521,6 +521,11 @@
             "stockIndustry": "電機機械"
         },
         {
+            "stockNo": "1507",
+            "stockName": "永大",
+            "stockIndustry": "電機機械"
+        },
+        {
             "stockNo": "1512",
             "stockName": "瑞利",
             "stockIndustry": "汽車工業"
@@ -689,6 +694,11 @@
             "stockNo": "1590",
             "stockName": "亞德客-KY",
             "stockIndustry": "電機機械"
+        },
+        {
+            "stockNo": "1592",
+            "stockName": "英瑞-KY",
+            "stockIndustry": "汽車工業"
         },
         {
             "stockNo": "1597",
@@ -899,11 +909,6 @@
             "stockNo": "1737",
             "stockName": "臺鹽",
             "stockIndustry": "食品工業"
-        },
-        {
-            "stockNo": "1752",
-            "stockName": "南光",
-            "stockIndustry": "生技醫療業"
         },
         {
             "stockNo": "1760",
@@ -1397,8 +1402,8 @@
         },
         {
             "stockNo": "2340",
-            "stockName": "台亞",
-            "stockIndustry": "半導體業"
+            "stockName": "光磊",
+            "stockIndustry": "光電業"
         },
         {
             "stockNo": "2342",
@@ -1772,7 +1777,7 @@
         },
         {
             "stockNo": "2443",
-            "stockName": "昶虹",
+            "stockName": "億麗",
             "stockIndustry": "其他業"
         },
         {
@@ -1809,6 +1814,11 @@
             "stockNo": "2455",
             "stockName": "全新",
             "stockIndustry": "通信網路業"
+        },
+        {
+            "stockNo": "2456",
+            "stockName": "奇力新",
+            "stockIndustry": "電子零組件業"
         },
         {
             "stockNo": "2457",
@@ -1958,7 +1968,7 @@
         {
             "stockNo": "2495",
             "stockName": "普安",
-            "stockIndustry": "電腦及週邊設備業"
+            "stockIndustry": "其他電子業"
         },
         {
             "stockNo": "2496",
@@ -2321,6 +2331,11 @@
             "stockIndustry": "金融保險業"
         },
         {
+            "stockNo": "2823",
+            "stockName": "中壽",
+            "stockIndustry": "金融保險業"
+        },
+        {
             "stockNo": "2832",
             "stockName": "台產",
             "stockIndustry": "金融保險業"
@@ -2339,6 +2354,11 @@
             "stockNo": "2838",
             "stockName": "聯邦銀",
             "stockIndustry": "金融保險業"
+        },
+        {
+            "stockNo": "2841",
+            "stockName": "台開",
+            "stockIndustry": "建材營造業"
         },
         {
             "stockNo": "2845",
@@ -2508,6 +2528,11 @@
         {
             "stockNo": "2929",
             "stockName": "淘帝-KY",
+            "stockIndustry": "貿易百貨業"
+        },
+        {
+            "stockNo": "2936",
+            "stockName": "客思達-KY",
             "stockIndustry": "貿易百貨業"
         },
         {
@@ -3071,11 +3096,6 @@
             "stockIndustry": "光電業"
         },
         {
-            "stockNo": "3592",
-            "stockName": "瑞鼎",
-            "stockIndustry": "半導體業"
-        },
-        {
             "stockNo": "3593",
             "stockName": "力銘",
             "stockIndustry": "電子零組件業"
@@ -3236,6 +3256,11 @@
             "stockIndustry": "生技醫療業"
         },
         {
+            "stockNo": "4141",
+            "stockName": "龍燈-KY",
+            "stockIndustry": "生技醫療業"
+        },
+        {
             "stockNo": "4142",
             "stockName": "國光生",
             "stockIndustry": "生技醫療業"
@@ -3376,11 +3401,6 @@
             "stockIndustry": "汽車工業"
         },
         {
-            "stockNo": "4583",
-            "stockName": "台灣精銳",
-            "stockIndustry": "電機機械"
-        },
-        {
             "stockNo": "4720",
             "stockName": "德淵",
             "stockIndustry": "化學工業"
@@ -3423,11 +3443,6 @@
         {
             "stockNo": "4766",
             "stockName": "南寶",
-            "stockIndustry": "化學工業"
-        },
-        {
-            "stockNo": "4770",
-            "stockName": "上品",
             "stockIndustry": "化學工業"
         },
         {
@@ -3596,11 +3611,6 @@
             "stockIndustry": "光電業"
         },
         {
-            "stockNo": "5244",
-            "stockName": "弘凱",
-            "stockIndustry": "光電業"
-        },
-        {
             "stockNo": "5258",
             "stockName": "虹堡",
             "stockIndustry": "電腦及週邊設備業"
@@ -3629,11 +3639,6 @@
             "stockNo": "5288",
             "stockName": "豐祥-KY",
             "stockIndustry": "電機機械"
-        },
-        {
-            "stockNo": "5306",
-            "stockName": "桂盟",
-            "stockIndustry": "其他業"
         },
         {
             "stockNo": "5388",
@@ -3767,7 +3772,7 @@
         },
         {
             "stockNo": "6112",
-            "stockName": "邁達特",
+            "stockName": "聚碩",
             "stockIndustry": "資訊服務業"
         },
         {
@@ -3854,6 +3859,11 @@
             "stockNo": "6168",
             "stockName": "宏齊",
             "stockIndustry": "光電業"
+        },
+        {
+            "stockNo": "6172",
+            "stockName": "互億",
+            "stockIndustry": "電腦及週邊設備業"
         },
         {
             "stockNo": "6176",
@@ -4062,7 +4072,7 @@
         },
         {
             "stockNo": "6415",
-            "stockName": "矽力*-KY",
+            "stockName": "矽力-KY",
             "stockIndustry": "半導體業"
         },
         {
@@ -4078,7 +4088,7 @@
         {
             "stockNo": "6431",
             "stockName": "光麗-KY",
-            "stockIndustry": "生技醫療業"
+            "stockIndustry": "光電業"
         },
         {
             "stockNo": "6438",
@@ -4161,11 +4171,6 @@
             "stockIndustry": "生技醫療業"
         },
         {
-            "stockNo": "6550",
-            "stockName": "北極星藥業-KY",
-            "stockIndustry": "生技醫療業"
-        },
-        {
             "stockNo": "6552",
             "stockName": "易華電",
             "stockIndustry": "半導體業"
@@ -4194,11 +4199,6 @@
             "stockNo": "6582",
             "stockName": "申豐",
             "stockIndustry": "橡膠工業"
-        },
-        {
-            "stockNo": "6585",
-            "stockName": "鼎基",
-            "stockIndustry": "其他業"
         },
         {
             "stockNo": "6591",
@@ -4271,11 +4271,6 @@
             "stockIndustry": "通信網路業"
         },
         {
-            "stockNo": "6691",
-            "stockName": "洋基工程",
-            "stockIndustry": "其他電子業"
-        },
-        {
             "stockNo": "6698",
             "stockName": "旭暉應材",
             "stockIndustry": "其他電子業"
@@ -4289,11 +4284,6 @@
             "stockNo": "6715",
             "stockName": "嘉基",
             "stockIndustry": "電子零組件業"
-        },
-        {
-            "stockNo": "6719",
-            "stockName": "力智",
-            "stockIndustry": "半導體業"
         },
         {
             "stockNo": "6743",
@@ -4331,11 +4321,6 @@
             "stockIndustry": "電子零組件業"
         },
         {
-            "stockNo": "6789",
-            "stockName": "采鈺",
-            "stockIndustry": "半導體業"
-        },
-        {
             "stockNo": "6790",
             "stockName": "永豐實",
             "stockIndustry": "造紙工業"
@@ -4346,23 +4331,8 @@
             "stockIndustry": "通信網路業"
         },
         {
-            "stockNo": "6796",
-            "stockName": "晉弘",
-            "stockIndustry": "生技醫療業"
-        },
-        {
-            "stockNo": "6799",
-            "stockName": "來頡",
-            "stockIndustry": "半導體業"
-        },
-        {
             "stockNo": "6806",
             "stockName": "森崴能源",
-            "stockIndustry": "其他業"
-        },
-        {
-            "stockNo": "6807",
-            "stockName": "峰源-KY",
             "stockIndustry": "其他業"
         },
         {
@@ -4536,14 +4506,14 @@
             "stockIndustry": "其他業"
         },
         {
+            "stockNo": "8427",
+            "stockName": "基勝-KY",
+            "stockIndustry": "其他業"
+        },
+        {
             "stockNo": "8429",
             "stockName": "金麗-KY",
             "stockIndustry": "貿易百貨業"
-        },
-        {
-            "stockNo": "8438",
-            "stockName": "昶昕",
-            "stockIndustry": "其他業"
         },
         {
             "stockNo": "8442",
